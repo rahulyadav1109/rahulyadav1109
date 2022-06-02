@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200"/>
 </div>
 _________________________________________________________________________________________________________________
+
 <h1>About Me 😎</h1>
 
 <div id="header" align="center">
