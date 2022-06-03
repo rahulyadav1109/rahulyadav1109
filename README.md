@@ -28,6 +28,7 @@ ________________________________________________________________________________
 
 <div align="center">
      <a href="![](https://komarev.com/ghpvc/?username=rahulyadav1109&color=blue)">
+       <img src="![](https://komarev.com/ghpvc/?username=rahulyadav1109&color=blue)">
      </div>
 
 <!--
