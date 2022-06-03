@@ -56,6 +56,8 @@ ________________________________________________________________________________
   <a href="https://genesis1109.medium.com">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
+   <!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:END --> 
   
   
                 
