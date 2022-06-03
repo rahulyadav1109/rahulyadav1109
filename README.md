@@ -57,7 +57,12 @@ ________________________________________________________________________________
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
    <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END --> 
+- [Techniques for stabilizing reverse shell](https://genesis1109.medium.com/techniques-for-stabilizing-reverse-shell-307182baf27d?source=rss-39c8e6f4b059------2)
+- [UnderRated Tool For Pass-The-Hash[Evil-WinRM]](https://genesis1109.medium.com/underrated-tool-for-pass-the-hash-evil-winrm-50032872b79b?source=rss-39c8e6f4b059------2)
+- [Root-Me {Network} ETHERNET — Patched transmission CTF WriteUp](https://genesis1109.medium.com/root-me-network-ethernet-patched-transmission-ctf-writeup-51cbb24019f1?source=rss-39c8e6f4b059------2)
+- [Solved By Only 1% : Root-Me {Network} 10. POP — APOP CTF WriteUp](https://genesis1109.medium.com/solved-by-only-1-root-me-network-10-pop-apop-ctf-writeup-76196cbd6144?source=rss-39c8e6f4b059------2)
+- [{Root-me CTF} 5. Bluetooth Unknown File Writeup](https://genesis1109.medium.com/root-me-ctf-5-bluetooth-unknown-file-writeup-5e2c712faf84?source=rss-39c8e6f4b059------2)
+<!-- BLOG-POST-LIST:END --> 
   
   
                 
