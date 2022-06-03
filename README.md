@@ -29,7 +29,8 @@ ________________________________________________________________________________
 
 <h2>How Popular I am 😄</h2>
 
-![](https://komarev.com/ghpvc/?username=rahulyadav1109&color=blue)
+<p align="center"><img src="https://komarev.com/ghpvc/?username=rahulyadav1109&style=flat-square&color=blue" alt=""></p>
+
        
 
 <!--
