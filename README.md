@@ -24,10 +24,11 @@ ________________________________________________________________________________
   <a href="https://twitter.com/iamgenesis1109">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  ![](https://komarev.com/ghpvc/?username=rahulyadav1109&color=blue)
-
 </div>
 
+<div align="center">
+     <a href="![](https://komarev.com/ghpvc/?username=rahulyadav1109&color=blue)">
+     </div>
 
 <!--
 
