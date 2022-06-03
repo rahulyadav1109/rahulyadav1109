@@ -12,6 +12,7 @@ ________________________________________________________________________________
 </div>
 <p>I am  a student and moreover a self learner i have learned cyber security by doing self study i will suggest everyone make google your best friend to learn new things</p>
 - 🌱 I’m currently learning Cyber Security (Purple Team)
+- 
 - ⚡ Fun fact: I was not from technical background
 
 <h1>📫 How to reach me</h1>
@@ -30,8 +31,6 @@ ________________________________________________________________________________
 <h2>How Popular I am 😄</h2>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=rahulyadav1109&style=flat-square&color=blue" alt=""></p>
-
-       
 
 <!--
 
